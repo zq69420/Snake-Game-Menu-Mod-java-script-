@@ -1,0 +1,5 @@
+1. make a new bookmark and copy the code here: 
+javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js'); req.onload = function() { eval(this.responseText + 'snake.more_menu();'); }; req.send();
+2. right click on the bookmark that you just created and paste the code above into the url box
+3. name the bookmark "snake game menu mod" or something like that
+4. when you are on the google snake game go into settings and then click on the bookmark, doing so will result in the java script running and therefore running the mod
